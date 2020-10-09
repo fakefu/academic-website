@@ -31,7 +31,7 @@ education:
     institution: Yokohama City University
     year: 2020
   - course: Exchange Program (USTEP)
-    institution: Polimoda
+    institution: Polimoda University
     year: 2017
   - course: BSc in Environmental design
     institution: Zhejiang University of Science and Technology
