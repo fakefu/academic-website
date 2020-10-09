@@ -10,11 +10,11 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Master in Economics M. Ec
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: Yokohama City University
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -72,6 +72,5 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Fu Qifan  is a Master of Economics from the International Management Economics Laboratory of Yokohama City University. His research interests include labor economics, empirical analysis and theoretical model construction.Main research topic is an empirical analysis of the impact of China’s unemployment insurance on the unemployed’s effort to re-employ.
+Gli interessi di ricerca di Fu Qifan includono l'economia del lavoro, l'analisi empirica e la costruzione di modelli teorici.Il principale argomento di ricerca è l'analisi empirica dell'impatto dell'assicurazione contro la disoccupazione cinese sullo sforzo di riassunzione da parte dei disoccupati.
