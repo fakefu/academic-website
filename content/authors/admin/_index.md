@@ -73,4 +73,5 @@ user_groups:
 ---
 
 Fu Qifan  is a Master of Economics from the International Management Economics Laboratory of Yokohama City University. His research interests include labor economics, empirical analysis and theoretical model construction.Main research topic is an empirical analysis of the impact of China’s unemployment insurance on the unemployed’s effort to re-employ.
+
 Gli interessi di ricerca di Fu Qifan includono l'economia del lavoro, l'analisi empirica e la costruzione di modelli teorici.Il principale argomento di ricerca è l'analisi empirica dell'impatto dell'assicurazione contro la disoccupazione cinese sullo sforzo di riassunzione da parte dei disoccupati.
